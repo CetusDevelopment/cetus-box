@@ -1,1 +1,0 @@
-import{j as o}from"./index-CBgVo8fP.js";import{T as r}from"./v-stack-B6LixqQq.js";function t(){return o.jsx(r,{h:"20px",lineHeight:"20px",fontSize:"12px",fontWeight:"500",textShadow:"0px 0px 10px rgba(103,255,164,0.2)",color:"primary",textTransform:"uppercase",children:"Coming Soon"})}export{t as C};
